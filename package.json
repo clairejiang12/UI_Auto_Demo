@@ -1,0 +1,22 @@
+{
+  "name": "ui_auto_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairejiang12/UI_Auto_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairejiang12/UI_Auto_Demo/issues"
+  },
+  "homepage": "https://github.com/clairejiang12/UI_Auto_Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3"
+  }
+}
