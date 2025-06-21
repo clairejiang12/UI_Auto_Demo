@@ -6,7 +6,7 @@ const LogDetailsPagein = require('../lib/ItemsDetails');
 const MainBar = require('../lib/mainBar');
 
 
-test.describe.serial('API Automation DEMO', () => {
+test.describe.serial('UI Automation DEMO', () => {
 
 
     let page;
