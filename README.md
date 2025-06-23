@@ -19,22 +19,23 @@ It covers core e-commerce flows such as product search, product details, cart op
 
 ## How to Execute
 
-1. **Install dependencies**
-   In the project root directory, run: ``npm install``
+1. **Install dependencies**  
+   In the project root directory, run:   
+   ``npm install``
 
-2. **Run all tests and view report**
-   Headless mode
-   ``npx playwright test``
-   Debug mode
-    ``npx playwright test --debug``
-   GUI mode
-    ``npx playwright test --ui``
+2. **Run all tests and view report**  
+   Headless mode  
+   ``npx playwright test``  
+   Debug mode  
+    ``npx playwright test --debug``  
+   GUI mode  
+    ``npx playwright test --ui``  
 
 ## Project Structure
 
-- `lib/` ¡ª Business logic modules (cart, product details, login, etc.)
-- `tests/` ¡ª Playwright test cases
-- `package.json` ¡ª Project dependencies and scripts
+- `lib/` - Business logic modules (cart, product details, login, etc.)
+- `tests/` - Playwright test cases
+- `package.json` - Project dependencies and scripts
 
 ## Notes
 
